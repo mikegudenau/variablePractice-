@@ -5,3 +5,6 @@ let state = "California";
 let age = 33;
 let currentYear = 2023;
 let favoriteNum = 10;
+
+let maritalStatus = false;
+let depositPaid = true;
