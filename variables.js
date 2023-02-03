@@ -1,4 +1,4 @@
-let name = "Mike";
+let myName = "Mike";
 let city = "Santa Cruz";
 let state = "California";
 
@@ -8,3 +8,13 @@ let favoriteNum = 10;
 
 let maritalStatus = false;
 let depositPaid = true;
+
+myName = "Murphy";
+city = "Seattle";
+state = "Washington";
+
+console.log(myName);
+console.log(city);
+console.log(state);
+console.log(age);
+console.log(favoriteNum);
